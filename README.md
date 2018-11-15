@@ -1,5 +1,7 @@
 # Kaggle Airbus Ship Detection Challenge 2018 8th place code
-This is the source code for my part of the 8th place solution to the [TGS Salt Identification Challenge](https://www.kaggle.com/c/airbus-ship-detection/discussion) hosted by Kaggle.com. 
+This is the source code for my part of the 8th place solution to the [Kaggle Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection/discussion) hosted by Kaggle.com. 
+
+![image](https://github.com/SeuTao/Kaggle_Airbus2018_8th_code/blob/master/png/airbus.png)
 
 ## Recent Update
 
