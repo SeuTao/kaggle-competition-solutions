@@ -1,0 +1,12 @@
+{"train_rle_path": "../data/competition_data/train-rle.csv",
+  "k_fold_path": "../data/det_fold_5/",
+  "k_fold_path_cls": "../data/cls_fold_5_all_images/",
+  "train_img_path": "../data/competition_data/train_png",
+  "test_img_path": "../data/competition_data/test_png",
+  "extra_img_path": "../data/chexpert_data/chexpert_img/",
+  "extra_img_csv": "../data/chexpert_data/chexpert_pesudo_label/",
+  "snapshot_path": "../snapshot_path/",
+  "sample_submission": "../data/competition_data/sample_submission.csv",
+  "stacking_path": "../models_snapshot/for_stacking/models",
+  "ridge_regression_path": "../models_snapshot/for_stacking/models"
+}
