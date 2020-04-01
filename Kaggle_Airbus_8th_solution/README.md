@@ -1,7 +1,7 @@
 # Kaggle Airbus Ship Detection Challenge 2018 8th place code
 This is the source code for my part of the 8th place solution to the [Kaggle Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection/discussion) hosted by Kaggle.com. 
 
-![image](https://github.com/SeuTao/kaggle-competition-solutions/blob/master/kaggle_Airbus2018_8th_solution/png/airbus.png)
+![image](png/airbus.png)
 
 ## Recent Update
 
