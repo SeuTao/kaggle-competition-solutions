@@ -5,14 +5,7 @@ This is the source code for my part of the 8th place solution to the [Kaggle Air
 
 ## Recent Update
 
-**`2018.11.15`**: dirty code, to be update
-
 **`2018.11.15`**: We achieved the 8th place on  [Kaggle Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection/discussion).
-
-#### Dependencies
-- opencv-python==3.4.2
-- torch==0.3.1
-- torchvision==0.2.1
 
 ## Solution Development
 #### Single model design
